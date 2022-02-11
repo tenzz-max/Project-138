@@ -1,0 +1,22 @@
+body {
+    background: cover;
+}
+
+
+.heading {
+    width: 100%;
+    text-align: center;
+}
+.heading h3 {
+    float: left;
+    display: inline;
+}
+.heading button {
+    float: right;
+    border: black solid 1px;
+}
+.canvas {
+    border: 1px white solid;
+    box-shadow: 5px 5px 5px whitesmoke;
+    width: 480;
+}
